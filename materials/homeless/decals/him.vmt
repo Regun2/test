@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$basetexture" "homeless/decals/him"
+	"$decal" 1
+	"$decalscale" 0.32
+	"%keywords" "c17downtown"
+	"$translucent" 1
+}
